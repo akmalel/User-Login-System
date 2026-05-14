@@ -1,0 +1,23 @@
+[
+    {
+        "user_name": "Alice",
+        "contact": "alice@example.com",
+        "type": "AppUser",
+        "user_role": null,
+        "user_id": null
+    },
+    {
+        "user_name": "Bob",
+        "contact": "bob@example.com",
+        "type": "AdminUser",
+        "user_role": "Admin",
+        "user_id": 101
+    },
+    {
+        "user_name": "Charlie",
+        "contact": "charlie@example.com",
+        "type": "FullUser",
+        "user_role": "Operator",
+        "user_id": 202
+    }
+]
