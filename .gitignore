@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env/
+.venv/
+data/users.pkl
+data/users.db
+!data/.gitkeep
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
